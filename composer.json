@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Ads\\Classes\\": "classes/"
+    }
+  },
+  "require": {
+    "ext-mbstring": "*",
+    "ext-gd": "*",
+    "nesbot/carbon": "^2.41"
+  }
+}
